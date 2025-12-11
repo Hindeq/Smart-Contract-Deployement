@@ -23,10 +23,15 @@ The project uses:
 smart_contract/
 ├─ lib/
 │ ├─ contract_linking.dart # Handles the smart contract connection
+
 │ ├─ helloUI.dart # User interface for interacting with the contract
+
 │ └─ main.dart # Main entry point
+
 ├─ src/artifacts/HelloWorld.json # Contract ABI and deployed address
+
 ├─ pubspec.yaml # Flutter dependencies
+
 └─ README.md
 
 
