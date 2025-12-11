@@ -22,6 +22,7 @@ The project uses:
 ## Project Structure
 smart_contract/
 ├─ lib/
+
 │ ├─ contract_linking.dart # Handles the smart contract connection
 
 │ ├─ helloUI.dart # User interface for interacting with the contract
