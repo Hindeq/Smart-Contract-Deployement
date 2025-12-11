@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # smart_contract
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Smart-Contract-Deployement
+Projet Flutter avec contrat intelligent HelloWorld
+>>>>>>> ce2ec230e0a9c5883ea5509965e7945dee87476d
