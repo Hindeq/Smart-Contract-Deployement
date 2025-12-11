@@ -47,11 +47,14 @@ git clone https://github.com/Hindeq/Smart-Contract-Deployement.git
 cd Smart-Contract-Deployement
 ```
 2. Install Flutter dependecies
+   ```bash
    flutter pub get
+   ```
 3. Make sure Ganache is running and the smart contract is migrated using Truffle:
+     ```bash
      truffle migrate
-
-## Notes
+      ```
+##  Notes
 
 - Update the _privateKey in contract_linking.dart with your Ganache account private key.
 
