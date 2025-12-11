@@ -77,4 +77,4 @@ web_socket_channel: WebSocket client
 flutter: SDK
 
 ## License
-Academic Project
+Academic Project - Module : Blockchain
